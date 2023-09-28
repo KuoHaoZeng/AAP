@@ -70,18 +70,18 @@ We currently provide the following pretrained models:
 
 |    PointNav  |                            Model                             |
 | :----------: | :----------------------------------------------------------: |
-|     AAP      | [Link](https://homes.cs.washington.edu/~khzeng/AAP/PointNav/aap.pt) |
-|     Action Semantics  | [Link](https://homes.cs.washington.edu/~khzeng/AAP/PointNav/as.pt) |
-|     LAC      | [Link](https://homes.cs.washington.edu/~khzeng/AAP/PointNav/lac.pt)|
-|     NIE      | [Link](https://homes.cs.washington.edu/~khzeng/AAP/PointNav/nie.pt) |
-|     EmbCLIP  | [Link](https://homes.cs.washington.edu/~khzeng/AAP/PointNav/EmbCLIP.pt)|
+|     AAP      | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/embodied-ai/AAP/PointNav/aap.pt) |
+|     Action Semantics  | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/embodied-ai/AAP/PointNav/as.pt) |
+|     LAC      | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/embodied-ai/AAP/PointNav/lac.pt)|
+|     NIE      | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/embodied-ai/AAP/PointNav/nie.pt) |
+|     EmbCLIP  | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/embodied-ai/AAP/PointNav/EmbCLIP.pt)|
 
 
 |    ObjNav   |                            Model                                  |
 | :----------: | :----------------------------------------------------------: |
-|     AAP      | [Link](https://homes.cs.washington.edu/~khzeng/AAP/ObjNav/aap.pt) |
-|     NIE      | [Link](https://homes.cs.washington.edu/~khzeng/AAP/ObjNav/nie.pt) |
-|     EmbCLIP  | [Link](https://homes.cs.washington.edu/~khzeng/AAP/ObjNav/EmbCLIP.pt) |
+|     AAP      | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/embodied-ai/AAP/ObjNav/aap.pt) |
+|     NIE      | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/embodied-ai/AAP/ObjNav/nie.pt) |
+|     EmbCLIP  | [Link](https://prior-model-weights.s3.us-east-2.amazonaws.com/embodied-ai/AAP/ObjNav/EmbCLIP.pt) |
 
 These models can be downloaded from the above links and should be placed into the `pretrained_model_ckpts`directory. For example:
 
